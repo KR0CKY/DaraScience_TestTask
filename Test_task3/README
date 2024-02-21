@@ -1,0 +1,1 @@
+Implement a function that takes 2 arguments - 2 dates. The result of calculating the function should be the difference between dates in days. If the difference takes a negative value, print the absolute value.Use the standard Python module for working with datetime dates.

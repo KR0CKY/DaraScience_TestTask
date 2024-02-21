@@ -1,0 +1,11 @@
+There is an array of search queries, for example:
+
+search_queries = [“watch new movies”, “coffee near me”, “how to find the determinant”, “python”, “data science jobs in UK”, “courses for data science”, “taxi”, “google”, “yandex”, “bing”,”foreign exchange rates USD/BYN”, “Netflix movies watch online free”, “Statistics courses online from top universities”]
+
+It is necessary to implement a function that takes as input data from an array of search queries and returns the distribution of search queries by the number of words in each query as a percentage.
+
+The result should look like this:
+1 word : 10%
+2 words: 40%
+4 words: 45%
+5 words: 5%

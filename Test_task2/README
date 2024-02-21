@@ -1,0 +1,1 @@
+Write a function that takes two vectors as input and calculates the cosine distance of the resulting vectors. Implement a check for the validity of calculating the cosine distance between 2 vectors; if the check fails, display in the console the reason why it is impossible to calculate the distance between 2 vectors.

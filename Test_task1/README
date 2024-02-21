@@ -1,0 +1,1 @@
+Write a Python function whose argument is an integer array (a list whose elements are of type int). The function must process an integer array and return only unique values (no duplicates) for this array, sorted in ascending order.

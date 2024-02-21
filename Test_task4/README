@@ -1,0 +1,8 @@
+Implement a doubly linked list using Python syntax. You need to create a class (or several classes) that will (will) represent a data structure - a linked list.
+A linked list is a collection of data elements called nodes. In a singly linked list, each node contains a value and a link to the next node. In a doubly linked list, each node also contains a link to the previous node.
+Implement a node to store a value and pointers to the next and previous nodes.
+Then implement a list that contains references to the first and last node and offers an array-like interface for adding and removing elements, which methods should be implemented:
+push() - writes a value to the end of the list
+pop() - removes a value from the end of the list
+shift() - removes the value at the beginning of the list
+unshift() - writes the value to the beginning of the list
